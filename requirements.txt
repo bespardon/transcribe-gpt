@@ -1,0 +1,6 @@
+openai-whisper
+python-docx
+resemblyzer
+scikit-learn
+numpy
+openai
