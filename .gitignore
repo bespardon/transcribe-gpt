@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# Logs and debug files
+*.log
+*.tmp
+
+# Output documents
+*.docx
+*.pdf
+*.xlsx
+
+# Whisper and GPT artifacts
+*_whisper.json
+*_diarization_*.json
+*_with_roles_*.docx
+*_gpt_stats_*.txt
+*_gpt_corrections_log_*.json
+
+# API key
+openai_api_key.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Python environment files
+*.egg-info/
+*.eggs/
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Git
+.gitignore
